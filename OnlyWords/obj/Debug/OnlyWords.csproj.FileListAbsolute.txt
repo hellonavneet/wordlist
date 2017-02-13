@@ -1,0 +1,6 @@
+d:\projects\OnlyWords\OnlyWords\bin\Debug\OnlyWords.exe.config
+d:\projects\OnlyWords\OnlyWords\bin\Debug\OnlyWords.exe
+d:\projects\OnlyWords\OnlyWords\bin\Debug\OnlyWords.pdb
+d:\projects\OnlyWords\OnlyWords\obj\Debug\OnlyWords.csprojResolveAssemblyReference.cache
+d:\projects\OnlyWords\OnlyWords\obj\Debug\OnlyWords.exe
+d:\projects\OnlyWords\OnlyWords\obj\Debug\OnlyWords.pdb
